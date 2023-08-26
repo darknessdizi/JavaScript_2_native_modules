@@ -1,0 +1,15 @@
+{
+  "name": "work_task_2---eslint",
+  "version": "1.0.0",
+  "description": "1. Каждая задача выполняется в виде отдельного проекта с собственным репозиторием на GitHub.\r 2. На эти задачи не распространяется требование отсутствия ошибок в ESLint, но вы можете его запустить и изучить появившиеся ошибки.\r 3. Решения должны быть построены на базе [шаблона webpack](/ci-template) (для задач под номерами 1 и 2).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "live-server src"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
